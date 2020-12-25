@@ -1,0 +1,21 @@
+.summer {
+    background:url('./summer.jpg') ;
+    background-size: cover;
+    height: 300px;
+    color : black;
+
+}
+.winter {
+    background:url('./winter.jpg') ;
+    background-size: cover;
+    height: 300px;
+    color : black;
+    
+}
+.monsoon {
+    background:url('./rain.jpg') ;
+    background-size: cover;
+    height: 300px;
+    color : black;
+    
+}
